@@ -1,0 +1,16 @@
+{
+    "name": "jamestemple/tax-processor",
+    "description": "Laravel Wrapper for the TaxJar API.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James M Temple",
+            "email": "jamestemple0429@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "require-dev": {
+      "phpunit/phpunit": "*"
+    }
+}
